@@ -11,4 +11,4 @@ Finally, with function `diff` is substracted date of birth from today's date. Wi
 
 To check how it looks, click on the preview and then on the green run button.
 ##
-[PREVIEW](https://replit.com/@MirnesGlamocic/PHP-function-for-determine-age#index.php)
+[PREVIEW](https://replit.com/@MirnesGlamocic/PHP-function-for-determine-age?v=1)
